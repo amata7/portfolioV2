@@ -1,6 +1,15 @@
-.card {
-    background-color: rgb(190, 233, 190);
-    margin: 10px;
-    width: 30%;
+.heading {
+    text-align: center;
 }
 
+main {
+    justify-content: center;
+}
+
+
+.card {
+    background-color: lightblue;
+    margin: 10px;
+    width: 350px;
+    align-items: center;
+}
